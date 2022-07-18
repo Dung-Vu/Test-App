@@ -9,4 +9,6 @@ export default {
     chat : require('../assets/chat.png'),
     calendar : require('../assets/calendar.png'),
     account : require('../assets/account.png'),
+    back : require('../assets/back.png'),
+    share : require('../assets/share.png'),
 }
